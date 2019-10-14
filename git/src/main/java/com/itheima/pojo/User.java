@@ -12,4 +12,5 @@ package com.itheima.pojo;
 public class User {
     private  String user;
     private  String user2;
+    private  String user3;
 }
