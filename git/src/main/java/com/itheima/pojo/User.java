@@ -16,13 +16,9 @@ public class User {
 
     private  String user4;
     private  String user15;
-    private  String user16;//1
-    private  String user13;//分支修改
-
-
-
-
-
+    private  String user16;
+    private  String user13;
+    private  String user14;
 
 
 
