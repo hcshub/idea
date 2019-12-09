@@ -12,6 +12,8 @@ package com.itheima.pojo;
 public class Dem {
    private String name;
     private Integer age;
+    private Integer age1;
+
 
     public String getName() {
         return name;
